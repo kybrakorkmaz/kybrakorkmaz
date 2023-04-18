@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kubra Korkmaz</h1>
 <h3 align="center">A third year computer science student in Eskisehir Osmangazi University in Turkey</h3>
 
-- 🌱 I’m currently learning **Python, Matlab, JavaScript**
+- 🌱 I’m currently learning **Python, JavaScript**
 
 - ⚡ Fun fact **Best cat lover is me.**
 
