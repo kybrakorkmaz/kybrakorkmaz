@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- ⚡ Fun fact **Best cat lover is me.**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
