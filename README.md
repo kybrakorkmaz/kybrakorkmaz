@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kubra Korkmaz</h1>
-<h3 align="center">A second year computer science student in Eskisehir Osmangazi University in Turkey</h3>
+<h3 align="center">A fourth year computer engineering student at Eskisehir Osmangazi University in Turkey</h3>
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
