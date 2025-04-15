@@ -7,7 +7,7 @@ At the same time, I am improving my skills in Java Spring Security. During my T�
 
 In my free time, I work on developing my own games and creating designs using Photoshop, Maya, and other tools. I was also accepted into the Google Uygulama ve Teknoloji Academy, specializing in AI-powered games.
 
-🔗 ([Check My Website](https://my-portfolio-kk.onrender.com/))
+🔗 [Check My Website](https://my-portfolio-kk.onrender.com/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/korkmazkubraa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kybra.korkmaz@gmail.com)
