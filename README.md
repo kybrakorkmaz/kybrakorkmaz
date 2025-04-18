@@ -45,8 +45,8 @@ In my free time, I work on developing my own games and creating designs using Ph
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23008000.svg?style=flat&logo=Matplotlib&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=korkmazkubraa&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korkmazkubraa&theme=radical&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=korkmazkubraa&theme=radical&hide_border=true&border_radius=4.5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kybrakorkmaz&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybrakorkmaz&theme=radical&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=kybrakorkmaz&theme=radical&hide_border=true&border_radius=4.5)
 
 ---
