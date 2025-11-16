@@ -1,11 +1,11 @@
-# 💫 About Me:
-I recently graduated with a degree in Computer Engineering from Eskisehir Osmangazi University in Turkey. During my studies, I was involved in a TÜBİTAK project for one year, focused on cryptographic accumulators. My teammates and I published a paper as part of this project. Afterward, I worked as an intern at Türksat, where I gained experience with the Spring Security framework and React.
+#  About Me:
+I graduated with a degree in Computer Engineering from Eskisehir Osmangazi University in Turkey. During my studies, I was involved in a TÜBİTAK project for one year, focused on cryptographic accumulators. My teammates and I published a paper as part of this project. Afterward, I worked as an intern at Türksat, where I gained experience with the Spring Security framework and React.
 
-I participated in the Erasmus program twice: first for a five-month academic exchange in Lithuania, and second for a volunteering internship in Italy. Currently, I am continuing my Erasmus internship as a volunteer, focusing on language diversity (Turkish-English) and contributing to the development of the Turkish WordNet.
+I participated in the Erasmus program twice: first for a five-month academic exchange in Lithuania, and second for a volunteering internship in Italy. During my internship, I volunteered for 2 months in person and 10 months remotely, focusing on language diversity (Turkish-English) and contributing to the development of the Turkish WordNet. I also presented this project at a workshop at Trento University, including statistics from BalkaNet and KeNet that I analyzed using Python.
 
-At the same time, I am improving my skills in Java Spring Security. During my TÜBİTAK project, I worked in the areas of authentication and authorization, using OAuth2, OIDC, and Keycloak. I continue to develop projects involving Keycloak and OAuth2.
+At the same time, I am improving my skills in JavaScript and Java-SpringBoot. During my TÜBİTAK project, I worked in the areas of authentication and authorization, using OAuth2, OIDC, and Keycloak. I continue to develop projects involving Keycloak and OAuth2.
 
-In my free time, I work on developing my own games and creating designs using Photoshop, Maya, and other tools. I was also accepted into the Google Uygulama ve Teknoloji Academy, specializing in AI-powered games.
+I was accepted into the Google Application and Technology Academy, where I gained experience as a Scrum Master. I used Notion for daily scrums and Miro for Kanban boards and sprint planning.
 
 🔗 [Check My Website](https://my-portfolio-kk.onrender.com/)
 
