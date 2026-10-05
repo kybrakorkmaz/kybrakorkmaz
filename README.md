@@ -1,6 +1,8 @@
 #  About Me:
 Freelancer | Indie Game Developer | Fullstack Web Developer
 
+I am currently learning 2D Pixel Art.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/korkmazkubraa) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kybra.korkmaz@gmail.com)
